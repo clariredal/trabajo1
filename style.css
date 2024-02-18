@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans';
+}
+
+.buscador{
+    display: inline;
+}
+
+.lupa{
+    background-color: cornflowerblue;
+}
+
+.navigation{
+    background: linear-gradient(#e66465, #9198e5);
+}
+.nav{
+    list-style-type: none;
+    padding: 20px;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+li{
+    display: inline;
+    margin: 15px;
+}
+
+img {
+    width: 100%;
+}
+
